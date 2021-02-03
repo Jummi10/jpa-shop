@@ -1,5 +1,5 @@
 # jpa-shop
-[스프링부트와 JPA를 활용](https://www.inflearn.com/course/스프링부트-JPA-활용-1)한 쇼핑몰 구현을 위한 저장소
+스프링 부트와 JPA를 활용한 쇼핑몰 구현을 위한 저장소
 
 
 ## 기능 목록
